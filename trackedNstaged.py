@@ -6,3 +6,4 @@ print("I'm a new file and I've been tracked and staged")
 # see
 # in the
 # commit log --stat!
+# to be reverted
